@@ -12,6 +12,12 @@ I’m a Computer Science student at UC Irvine, passionate about Machine Learning
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/youssef-elsafty-82b482202/) 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/youssefelsafty52/)
 
+### 🛠️ Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,aws,bash,c,cpp,cs,django,docker,express,flask,git,heroku,html,java,js,linux,mysql,nginx,nodejs,opencv,postgres,python,pytorch,sklearn,selenium,sqlite,tensorflow,unity" />
+</p>
+
 <!--
 **saftyy/saftyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
