@@ -10,7 +10,7 @@ I’m a Computer Science student at UC Irvine, passionate about Machine Learning
 ### 📬 Connect with me  
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/youssef-elsafty-82b482202/) 
-[![Instagram](https://skillicons.dev/icons?i=instagram)]((https://www.instagram.com/youssefelsafty52/))
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/youssefelsafty52/)
 
 <!--
 **saftyy/saftyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
